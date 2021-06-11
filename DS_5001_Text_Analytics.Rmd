@@ -1,0 +1,40 @@
+---
+title: "DS 5001 Text Analytics"
+author: "Camille V. Leonard"
+date: "6/11/2021"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For the Summer 2021 semester I'm taking two courses: DS 5001 Exploratory Text Analytics and DS 5110 Big Data. To catalog my learning I'll be compiling weekly notes and code that will be stored in this document. This document will focus on the Text Analytics information. This [document](DS_5110_Big_Data.html) will focus on the Big Data information. 
+
+# Week 1 - Reading in Data and Jupyter Notebooks 
+
+```
+py = "code"
+
+```
+
+
+# Week 2 - Text Models 
+
+## OHCO 
+
+## Code Example and Assignment
+
+
+# Week 3 - Language Models 
+
+## Entropy 
+
+## Perplexity 
+
+## Markov 
+
+## Code Example and Assignment
